@@ -42,3 +42,9 @@ app.*.map.json
 /android
 /ios
 /build
+/linux
+/web
+/windows
+/macos
+/macos
+/pubspec.lock
